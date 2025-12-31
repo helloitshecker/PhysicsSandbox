@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PhysicsSandbox/PhysicsSandbox.vcxproj" Id="158d2d57-3198-43da-a4d9-3755ced0b33e" />
+</Solution>
